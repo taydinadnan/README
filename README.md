@@ -1,4 +1,4 @@
-<img align="right" width="500" height="500" src="IMG_profile.png">
+<img align="right" width="300" height="300" src="21-avatar-outline.gif">
 
 
 # Adnan Turgay Aydin
