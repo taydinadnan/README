@@ -1,21 +1,12 @@
-<img align="right" width="300" height="300" src="21-avatar-outline.gif">
-
-
-# Adnan Turgay Aydin
-
-Hi there, I'm Adnan Turgay 👋
-
-<a href="https://www.linkedin.com/in/taydinadnan/">
- My Linkedin
-</a>
-
-## Stay Connected with me !
-
-
-<h1 align="center">Hi 👋, I'm Adnan Turgay</h1>
-<h3 align="center">Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taydinadnan&label=Visitors&color=ff0000&style=flat" alt="taydinadnan" /> </p>
+
+<img align="right" width="300" height="300" src="21-avatar-outline.gif">
+
+<h3 align="center">Mobile Developer</h3>
+<h1 align="center">Hi 👋, I'm Adnan Turgay</h1>
+
+
 
 - 📫 How to reach me **taydinadnan@gmail.com**
 
